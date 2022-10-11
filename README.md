@@ -4,6 +4,9 @@
 ### Amante da Tecnologia e sempre em busca de conhecimento!
 
 ![Matheus Prado GitHub stats](https://github-readme-stats.vercel.app/api?username=mathsprado714&show_icons=true&theme=tokyonight)
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathsprado714&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso no meu dia-dia! 😎👍
 
@@ -28,4 +31,3 @@
     <img align-itens="center" alt="AngularJS" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
 
 </div>
-
